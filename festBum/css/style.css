@@ -169,16 +169,17 @@ header .fa-bars {
   }
   
   main {
-    height: 45vh;
+    height: 55vh;
     width: 800%;
     max-width: 1000px;
     display: flex;
     flex-wrap: wrap;
     align-content: center;
     justify-content: center;
-    margin-left: 20%;
-    margin-right: 20%;
+    margin-left: 13%;
+    margin-right: 13%;
   }
+  
   
   span {
     font-size: x-large;
